@@ -1,4 +1,4 @@
-# Git 101 :bear:
+# Git 101 :bear: :koala:
 
 วันนี้เราเรียน Git กัน :D
 
